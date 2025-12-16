@@ -1,5 +1,8 @@
 # SteamLobby
 
+## Project Info
+Unity + Facepunch.Steamworks base Steam Lobby System
+
 ## SteamMatchmaking Callback Reference
 
 ### Currently Implemented Callbacks
@@ -24,3 +27,7 @@
 | `OnChatMessage` | ✅ | ✅ | Called when a chat message is received from a lobby member |
 | `OnLobbyInvite` | ✅ | ✅ | Called when invited to a lobby |
 
+
+
+### Require Asset
+https://github.com/Unity-Technologies/multiplayer-community-contributions.git?path=/Transports/com.community.netcode.transport.facepunch
